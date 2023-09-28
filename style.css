@@ -1,0 +1,18 @@
+html, body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    /* width: 0;
+    box-sizing: content-box; */
+    background-color: black;
+    
+}
+.center{
+    background-color: aquamarine;
+    padding: 2rem;
+    /* height: 10px;  */
+
+}
